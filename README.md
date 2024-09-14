@@ -2,6 +2,11 @@
 
 This project provides an interactive Excel dashboard for analyzing Indian Premier League (IPL) data. The dashboard offers insights into various key statistics of IPL matches, players, and teams over different seasons, making it an essential tool for sports enthusiasts and analysts.
 
+<p>&nbsp;</p>
+<p align="center">
+  <img width="586" alt="image" src="[https://github.com/NikitaLodha25/Excel-Dashboards/assets/84386819/700917a9-fe08-4ee3-bb4f-8285ab44a1ae](https://github.com/Ashishved786/IPL-Dashboard/blob/main/dashboard.PNG?raw=true)">
+</p>
+
 ## Features
 
 - **Team Performance Analysis**: View team-wise performance metrics such as wins, losses, and net run rate across seasons.
