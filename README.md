@@ -4,7 +4,7 @@ This project provides an interactive Excel dashboard for analyzing Indian Premie
 
 <p>&nbsp;</p>
 <p align="center">
-  <img width="586" alt="image" src="[https://github.com/NikitaLodha25/Excel-Dashboards/assets/84386819/700917a9-fe08-4ee3-bb4f-8285ab44a1ae](https://github.com/Ashishved786/IPL-Dashboard/blob/main/dashboard.PNG?raw=true)">
+  <img width="586" alt="image" src="https://github.com/Ashishved786/IPL-Dashboard/blob/main/dashboard.PNG">
 </p>
 
 ## Features
